@@ -1,0 +1,9 @@
+Common: Vu Vu, vuvu@mail.com, 00000004, 3000, 5000  Display: 1, 1, 1  Sound: 1, 1, 1, 1  General: (GMT-10:00), 03
+Common: Ning Dang, ningdang@mail.com, 00000033, 3000, 5000  Display: 1, 1, 1  Sound: 5, 5, 5, 5  General: (GMT-12:00), 01
+Common: Bang Vu, bang@mail.com, 00000024, 1234, 7777  Display: 1, 1, 1  Sound: 5, 5, 5, 5  General: (GMT+04:00), 05
+Common: Vu Le, vule@mail.com, 00000044, 3000, 5000  Display: 5, 5, 5  Sound: 5, 5, 5, 5  General: (GMT+04:00), 05
+Common: Anh Dang, anhdang@mail.com, 88801234, 3000, 5000  Display: 1, 1, 1  Sound: 5, 5, 5, 5  General: (GMT-10:00), 03
+Common: Anh Ning, anhning@mail.com, 66601234, 3000, 5000  Display: 1, 1, 1  Sound: 5, 5, 5, 5  General: (GMT+04:00), 05
+Common: Dong Hoang, donghoang@mail.com, 00000309, 3000, 5000  Display: 1, 1, 1  Sound: 5, 5, 5, 5  General: (GMT-09:00), 04
+Common: Tuan Le, tuanle@mail.com, 00000109, 3000, 5000  Display: 2, 2, 2  Sound: 5, 5, 5, 5  General: (GMT-09:00), 04
+Common: Ning Ning, ningning@mail.com, 00000034, 3000, 5000  Display: 2, 2, 2  Sound: 1, 1, 1, 1  General: (GMT-12:00), 01
