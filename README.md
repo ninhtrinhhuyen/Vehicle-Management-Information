@@ -1,8 +1,4 @@
-Nếu anh chị dùng windown thì vào giúp em file Data.cpp sửa hàm
-void data::clearConsole()
-{
-    std::system("clear"); -> std::system("cls");
-}
+# Vehicle Management Information
 
 TỔNG QUAN VỀ BÀI TẬP
     +> Công ty X là một công ty về gia công và sản xuất phần mềm trên xe ô tô. Bạn được yêu cầu viết một chương trình cài đặt và quản lý cơ sở dữ liệu chương trình cài đặt các thông số của một số xe ô tô trước khi xuất xưởng để bán. Chương trình sẽ bao gồm các chức năng cơ bản như sau:
@@ -49,3 +45,9 @@ File BinaryTreeSearch
 File main
     +> Các giao diện chương trình.
     +> Hiện thị thông tin của xe ra màn hình.
+
+Nếu anh chị dùng windown thì vào giúp em file Data.cpp sửa hàm
+void data::clearConsole()
+{
+    std::system("clear"); -> std::system("cls");
+}
