@@ -12,24 +12,23 @@ TỔNG QUAN VỀ BÀI TẬP
 
         +> Xuất thông tin cho toàn bộ các cài đặt kèm theo phân loại theo tên chủ nhân xe. Điều này có nghĩa rằng 1 chiếc xe cần có đủ thông tin cài đặt cho cả 3 thông số Display, General và Sound
 
-        +> Trong dự án này bạn cần phải sử dụng các kiến thức về lập trình xử lý dữ liệu với binary tree, và các thuật toán tìm kiếm để tìm kiếm giữ liệu, xử lý ngoại lệ, thao tác với file, đọc/ghi thông tin cài đặt ra file (text file) và validate dữ liệu.
+        +> Trong dự án này sử dụng các kiến thức về lập trình xử lý dữ liệu với binary tree, và các thuật toán tìm kiếm để tìm kiếm giữ liệu, xử lý ngoại lệ, thao tác với file, đọc/ghi thông tin cài đặt ra file (text file) và validate dữ liệu.
 
         +> Thông tin cài đặt sẽ được đọc từ file (khi có cài đặt trước đó), và update vào file khi có cài đặt mới
+
         +> Sử dụng Binary Tree Search để lưu trữ dữ liệu
 
         +> Thực hiện download list timezone, language (từ file txt) và đưa lựa chọn cho người sử dụng với chức năng General
 
-Chương trình sẽ bao gồm các chức năng cơ bản như sau:
+        +> Thực hiện đọc file và đưa dữ liệu vào chương trình để thực hiện cập nhật và hiển thị dữ liệu theo các  chức năng.
 
-    +> Thực hiện đọc file và đưa dữ liệu vào chương trình để thực hiện cập nhật và hiển thị dữ liệu theo các  chức năng.
+        +> Kiểu tra các dữ liệu đầu vào.
 
-    +> Kiểu tra các dữ liệu đầu vào.
+        +> Sắp xếp dữ liệu timezone, language theo Anphabet hoặc theo utc/index rồi hiển thị ra màn hình
 
-    +> Sắp xếp dữ liệu timezone, language theo Anphabet hoặc theo utc/index rồi hiển thị ra màn hình
+        +> Sắp xếp dữ liệu hiển thị của từng chức năng theo MSCN hoặc theo tên chủ xe
 
-    +> Sắp xếp dữ liệu hiển thị của từng chức năng theo MSCN hoặc theo tên chủ xe
-
-    +> Tìm kiếm kiếm cài đặt theo mã số cá nhân hoặc tên của chủ xe và xuất ra màn hình thông tin cài đặt của các chức năng Display, Sound, General tương ứng với xe có mã số đó
+        +> Tìm kiếm kiếm cài đặt theo mã số cá nhân hoặc tên của chủ xe và xuất ra màn hình thông tin cài đặt của các chức năng Display, Sound, General tương ứng với xe có mã số đó
 
 File Setting
 
